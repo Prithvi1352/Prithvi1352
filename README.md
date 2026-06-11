@@ -29,5 +29,5 @@ Master's thesis at the TUM Chair of Thermodynamics. Custom bond-breaking based e
 - Extending the panel method solver with full viscous-inviscid coupling and comparing it against the OpenFOAM wing case
 - Open to PhD positions and engineering roles in aerodynamics, CFD, and turbomachinery across Europe
 
-📫 **Reach me:**  [LinkedIn]([https://www.linkedin.com/in/prithvi-n-simha/])
+📫 **Reach me:**  [LinkedIn](https://www.linkedin.com/in/prithvi-n-simha/)
 📍 Munich, Germany
