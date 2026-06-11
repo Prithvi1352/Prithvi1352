@@ -21,5 +21,5 @@ Semester thesis at the TUM Chair of Turbomachinery and Flight Propulsion. Meanli
 ### [OpenFOAM Wing Case](https://github.com/Prithvi1352/OpenFOAM-simple-wing-case)
 Steady RANS simulation setup for a 3D wing using snappyHexMesh and simpleFoam, serving as the high fidelity reference for the panel method solver above.
 
-### [LAMMPS Framework for Parallel Replica Dynamics](https://github.com/Prithvi1352/LAMMPS_Master_Thesis)
+### [LAMMPS Framework Modification for Parallel Replica Dynamics](https://github.com/Prithvi1352/LAMMPS_Master_Thesis)
 Master's thesis at the TUM Chair of Thermodynamics. Custom bond-breaking based event detection algorithm in LAMMPS for Parallel Replica Dynamics with spatial domain decomposition, enabling long timescale simulations of ablative thermal protection materials on HPC systems — the atomistic side of aerothermodynamic reentry modeling.
