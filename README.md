@@ -23,3 +23,11 @@ Steady RANS simulation setup for a 3D wing using snappyHexMesh and simpleFoam, s
 
 ### [LAMMPS Framework Modification for Parallel Replica Dynamics](https://github.com/Prithvi1352/LAMMPS_Master_Thesis)
 Master's thesis at the TUM Chair of Thermodynamics. Custom bond-breaking based event detection algorithm in LAMMPS for Parallel Replica Dynamics with spatial domain decomposition, enabling long timescale simulations of ablative thermal protection materials on HPC systems — the atomistic side of aerothermodynamic reentry modeling.
+
+## Currently
+
+- Extending the panel method solver with full viscous-inviscid coupling and comparing it against the OpenFOAM wing case
+- Open to PhD positions and engineering roles in aerodynamics, CFD, and turbomachinery across Europe
+
+📫 **Reach me:**  [LinkedIn]([https://www.linkedin.com/in/prithvi-n-simha/])
+📍 Munich, Germany
