@@ -51,4 +51,4 @@ Transient RANS study of a NACA 2412 wing comparing zero sweep and 15° sweep con
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvi-n-simha/)
 
-📍 Munich, Germany · Open to PhD positions and engineering roles in aerodynamics, CFD, and turbomachinery across Europe
+Open to PhD positions and engineering roles in aerodynamics, CFD, and turbomachinery across Europe
